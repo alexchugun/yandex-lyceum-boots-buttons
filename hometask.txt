@@ -1,0 +1,3 @@
+Сравнение файлов в ветках master и demo:
+human.txt - идентичны
+README.md - в ветке demo нет текста: "with nice buttons on his jacket (buttons branch)"
