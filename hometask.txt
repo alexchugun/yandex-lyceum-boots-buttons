@@ -1,3 +1,29 @@
 Сравнение файлов в ветках master и demo:
 human.txt - идентичны
 README.md - в ветке demo нет текста: "with nice buttons on his jacket (buttons branch)"
+
+Комментарии из коммитов, кроме последнего:
+
+-Ветка master (11 коммитов):
+Сетевой repo #2 в среде
+Merge remote-tracking branch 'origin/boots_buttons'
+Merge branch 'hat'
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+
+fix readme
+dots
+README added
+boots
+heat added
+init
+
+-Ветка boots_buttons (7 коммитов):
+Merge branch 'buttons' into boots_buttons
+Merge branch 'boots' into boots_buttons
+
+fix readme
+dots
+README added
+boots
+init
